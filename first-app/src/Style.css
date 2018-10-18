@@ -1,0 +1,22 @@
+
+.myStyle {
+    width: 25%;
+    padding: 25px;
+    background-color: blue;
+    color: white;
+    font-size: 25px;
+    border-radius: 12px;
+
+}
+
+.div{
+padding-bottom: 5%;
+font-size: 25px;
+
+
+}
+
+.body{
+
+    background-color: darkgray;
+}
